@@ -1,12 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>any old blog </title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on any old blog </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 26 Aug 2025 08:46:49 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spurs</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Tue, 26 Aug 2025 08:46:49 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;thumb.jpg&#34; alt=&#34;Full image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tottenham-hotspur-aka-spurs&#34;&gt;Tottenham Hotspur aka Spurs&lt;/h2&gt;
+&lt;p&gt;Tottenham Hotspur, commonly known as &lt;strong&gt;Spurs&lt;/strong&gt;, is a professional football club based in Tottenham, North London, England. Founded in 1882, the team competes in the Premier League and plays its home matches at the Tottenham Hotspur Stadium, which has a capacity of 62,850.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>West Bromwich Albion</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Tue, 26 Aug 2025 08:46:49 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;thumb.jpg&#34; alt=&#34;Full image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tottenham-hotspur-aka-spurs&#34;&gt;Tottenham Hotspur aka Spurs&lt;/h2&gt;
+&lt;p&gt;Tottenham Hotspur, commonly known as &lt;strong&gt;Spurs&lt;/strong&gt;, is a professional football club based in Tottenham, North London, England. Founded in 1882, the team competes in the Premier League and plays its home matches at the Tottenham Hotspur Stadium, which has a capacity of 62,850.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Arsenal</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 26 Aug 2025 08:42:38 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;thumb.jpg&#34; alt=&#34;Full image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;arsenal--aka-the-gunners&#34;&gt;Arsenal  aka The Gunners&lt;/h2&gt;
+&lt;p&gt;Arsenal Football Club &lt;strong&gt;the gunners&lt;/strong&gt; is a professional football team based in Islington, North London, England, founded in 1886. Known as &amp;ldquo;The Gunners,&amp;rdquo; they compete in the Premier League and have won numerous titles, including 13 league championships and a record 14 FA Cups, making them one of the most successful clubs in English football history.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>
