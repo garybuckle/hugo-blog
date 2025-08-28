@@ -24,10 +24,10 @@ cover = "thumb.jpg"
 [menu]
   [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "about"
     weight = 1
 
   [[menu.main]]
     name = "Posts"
-    url = "/posts/"
+    url = "posts"
     weight = 2
