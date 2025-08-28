@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://garybuckle.github.io/hugo-blog/"
 languageCode = "en-gb"
 title = "garybuckle"
 theme = "PaperMod"
