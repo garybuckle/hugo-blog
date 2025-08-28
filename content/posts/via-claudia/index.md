@@ -1,7 +1,12 @@
 +++
 title = "Via Claudia Augusta Tour 2024"
-featured_image = "thumb.jpg"
-date = "2024-08-14"
+summary = "Via Claudia Augusta - The Start Some time ago a good friend of mine told me that his dream was to cycle from Bavaria in southern Germany, across the alps and finish at Lake Garda in Italy, along a route called Via Claudia Augusta. I don't know why but I said I would love to do it too, I'm not even…"
+date = "2024-08-24"
+excerpt = "Some time ago a good friend of mine told me that his dream was to cycle from Bavaria in southern Germany..."
+[params.cover]
+image = "thumb.avif"   # filename in the same folder
+alt = "Via Claudia"
+relative = true    
 +++
 
 # Via Claudia Augusta Tour 2024

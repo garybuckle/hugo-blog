@@ -1,8 +1,12 @@
 +++
 title = "Berlin bound"
-featured_image = "thumb.jpg"
 date = "2023-09-15"
 preview = false
+excerpt = "Colleen and Gary pre marathon"
+[params.cover]
+image = "thumb.avif"
+alt = "Colleen and Gary pre marathon"
+relative = true
 +++
 The photo is 5 years old! In 2017 a very good friend and myself ventured to Berlin in order to run the Marathon. 
 5 years later I am back again but this time with [Colleen](href=https://colleenanderhub.co.uk) my daughter. 

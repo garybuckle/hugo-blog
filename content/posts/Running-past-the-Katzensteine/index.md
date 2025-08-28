@@ -1,8 +1,12 @@
 +++
 title = "Running past the Katzensteine"
 date = "2023-04-24"
-featured_image = "thumb.jpg"
 preview = false
+excerpt = "This was a great find, the sandstone rocks! The forest and the fact that it is less than 3km away f"
+[params.cover]
+image = "thumb.avif"   # filename in the same folder
+alt = "The Katzensteine"
+relative = true
 +++
 
 ## Running past the Katzensteine

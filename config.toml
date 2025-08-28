@@ -2,10 +2,15 @@ baseURL = "http://localhost:1313/"
 languageCode = "en-gb"
 title = "garybuckle"
 theme = "PaperMod"
-
+cover = "thumb.jpg"
 [params]
-  customCSS = ["css/custom.css"]  # 👈 load your plain CSS here
+  customCSS = ["css/custom.css"]
   DateFormat = "02.01.2006"
+  ShowPostCover = true
+  ShowCoverInList = true
+  ShowCoverInSingle = true
+[params.list]
+  sortByDate = "desc"
 
 [markup]
   [markup.goldmark]
@@ -14,8 +19,8 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    url = "/"
+    name = "About"
+    url = "/about"
     weight = 1
 
   [[menu.main]]

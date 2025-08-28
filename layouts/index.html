@@ -1,0 +1,26 @@
+{{- define "main" }}
+
+{{- if .Content }}
+<div class="post-content">
+    {{ .Content }}
+</div>
+{{- else }}
+<div class="page-header">
+    <h1>{{ .Site.Title }}</h1>
+    {{- if .Site.Params.description }}
+    <div class="post-description">{{ .Site.Params.description }}</div>
+    {{- end }}
+</div>
+
+<div class="homepage-content">
+
+    <!-- You can add any custom content here -->
+    <!-- For example: -->
+     <section class="about-section">
+        <h2>About Me</h2>
+        <p>Website Development, running marathons, playing squash, staying active. That more or less sums me up!</p>
+    </section>
+</div>
+{{- end }}
+
+{{- end }}

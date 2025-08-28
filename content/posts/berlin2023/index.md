@@ -1,9 +1,15 @@
 +++
 title = "Berlin blow for blow"
-featured_image = "thumb.jpg"
 date = "2023-09-27"
 preview = false
+excerpt = "We walked across a former airfield, the wind in our faces, surrounded by cyclists, skateboarders and runners. "
+[params.cover]
+image = "thumb.avif"   
+alt = "Colleen and Gary pre marathon"
+relative = true   
 +++
+
+![Berlin2023](/images/berlin-blow-for-blow.avif)
 
 We walked across a former airfield, the wind in our faces, surrounded by cyclists, skateboarders and runners. This was marathon day minus 1, Saturday, registration day. Eventually we found the entrance to the Berlin marathon registration expo, heavily sponsored by, no let’s not mention the sponsors. Without them it wouldn’t happen but they got enough airtime. Colleen and I made our way through the myriad of checks, id and marathon pass shananigans, funnelled through to the registration counter. Berlin is funny, I’m never sure which language I should be using. Everyone starts with English and because I don’t wanna be a tourist, I answer in German, they reply in English and the game continues. Anyway, everything goes smoothly and we get our tracking chips (No salt and Vinegar) and number bibs. Finally we meet up with our support team, Heike and Alicia, we make our way out and home. But not before buying some merch and chatting to the antipodean scientist at the Super Sapiens stand. We discuss the future of sport, nutrition and pretty much everything. He was a pretty switched on bloke and I wish I had gotten his email.
 
