@@ -1,0 +1,8 @@
+.post-content .home-avatar {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}

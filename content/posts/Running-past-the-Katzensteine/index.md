@@ -1,12 +1,9 @@
----
-title: "Running past the Katzensteine"
-excerpt: "This was a great find, the sandstone rocks! The forest and "
-coverImage: "/assets/katzensteine"
-date: "2023-04-24T05:35:07.322Z"
-ogImage:
-  url: "/assets/katzensteine"
-preview: false
----
++++
+title = "Running past the Katzensteine"
+date = "2023-04-24"
+featured_image = "thumb.jpg"
+preview = false
++++
 
 ## Running past the Katzensteine
 

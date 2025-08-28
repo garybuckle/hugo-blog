@@ -1,13 +1,9 @@
----
-title: "London to Brighton - prequel"
-excerpt: " London 2 Brighton for Sean"
-coverImage: "/assets/sean-L2B.jpeg"
-date: "2024-05-23T05:35:07.322Z"
-ogImage:
-  url: "/assets/sean-L2B.jpeg"
-preview: false
----
----
++++
+title = "London to Brighton - prequel"
+featured_image = "thumb.jpg"
+date = "2024-05-23"
+preview = false
++++
 
 “The Devil whispered in my ear: ‘You’re not strong enough to withstand the storm.’ I whispered back: ‘I am the storm'”
 

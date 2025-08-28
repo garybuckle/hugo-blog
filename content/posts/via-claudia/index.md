@@ -1,11 +1,8 @@
----
-title: "Via Claudia Augusta Tour 2024"
-excerpt: "The Eifel to the Alps on two wheels"
-coverImage: "/assets/via_claudia.jpeg"
-date: "2024-08-14T05:35:07.322Z"
-ogImage:
-  url: "/assets/via_claudia.jpeg"
----
++++
+title = "Via Claudia Augusta Tour 2024"
+featured_image = "thumb.jpg"
+date = "2024-08-14"
++++
 
 # Via Claudia Augusta Tour 2024
 

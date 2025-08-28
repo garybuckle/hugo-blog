@@ -1,11 +1,8 @@
----
-title: "London to Brighton"
-excerpt: "London to Brighton"
-coverImage: "/assets/L2B25.jpeg"
-date: "2024-05-24T05:35:07.322Z"
-ogImage:
-  url: "/assets/L2B25.jpeg"
----
++++
+title = "London to Brighton"
+featured_image = "thumb.jpg"
+date = "2024-05-24"
++++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 

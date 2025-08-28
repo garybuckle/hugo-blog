@@ -1,8 +1,8 @@
 +++
-title: "Berlin bound"
+title = "Berlin bound"
 featured_image = "thumb.jpg"
-date = "15-09-2023"
-preview: false
+date = "2023-09-15"
+preview = false
 +++
 The photo is 5 years old! In 2017 a very good friend and myself ventured to Berlin in order to run the Marathon. 
 5 years later I am back again but this time with [Colleen](href=https://colleenanderhub.co.uk) my daughter. 

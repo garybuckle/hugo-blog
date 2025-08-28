@@ -1,7 +1,7 @@
 +++
 title = "Berlin blow for blow"
 featured_image = "thumb.jpg"
-date = "27-09-2023"
+date = "2023-09-27"
 preview = false
 +++
 

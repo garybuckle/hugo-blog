@@ -4,18 +4,21 @@ title = "garybuckle"
 theme = "PaperMod"
 
 [params]
-  mainSections = ["posts"]
-  paginate = 5  # number of posts per page
-  # optional PaperMod params
-  home = true   # show homepage with posts
+  customCSS = ["css/custom.css"]  # 👈 load your plain CSS here
+  DateFormat = "02.01.2006"
 
-  [menu]
-    [[menu.main]]
-      name = "Home"
-      url = "/"
-      weight = 1
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
-    [[menu.main]]
-      name = "Posts"
-      url = "/posts/"
-      weight = 2
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2

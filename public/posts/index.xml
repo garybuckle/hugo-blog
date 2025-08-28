@@ -1,53 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>All Posts on any old blog </title>
+    <title>All Posts on garybuckle</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in All Posts on any old blog </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in All Posts on garybuckle</description>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 26 Aug 2025 08:46:49 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Spurs</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Tue, 26 Aug 2025 08:46:49 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      
-      <description>&lt;p&gt;&lt;img src=&#34;thumb.jpg&#34; alt=&#34;Full image&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;tottenham-hotspur-aka-spurs&#34;&gt;Tottenham Hotspur aka Spurs&lt;/h2&gt;
-&lt;p&gt;Tottenham Hotspur, commonly known as &lt;strong&gt;Spurs&lt;/strong&gt;, is a professional football club based in Tottenham, North London, England. Founded in 1882, the team competes in the Premier League and plays its home matches at the Tottenham Hotspur Stadium, which has a capacity of 62,850.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-      
+      <title>Via Claudia Augusta Tour 2024</title>
+      <link>http://localhost:1313/posts/via-claudia/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/via-claudia/</guid>
+      <description>&lt;h1 id=&#34;via-claudia-augusta-tour-2024&#34;&gt;Via Claudia Augusta Tour 2024&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;The only Zen you find on the tops of mountains is the Zen you bring there — Robert M Pirsig&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;via-claudia-augusta---the-start&#34;&gt;Via Claudia Augusta - The Start&lt;/h2&gt;
+&lt;p&gt;Some time ago a good friend of mine told me that his dream was to cycle from Bavaria in southern Germany, across the alps and finish at Lake Garda in Italy, along a route called Via Claudia Augusta.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t know why but I said I would love to do it too, I&amp;rsquo;m not even much of a cyclist and I don&amp;rsquo;t even own a bicycle. Or at least one that was good enough to cross the alps!&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>West Bromwich Albion</title>
-      <link>http://localhost:1313/posts/my-third-post/</link>
-      <pubDate>Tue, 26 Aug 2025 08:46:49 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-third-post/</guid>
-      
-      <description>&lt;p&gt;&lt;img src=&#34;thumb.jpg&#34; alt=&#34;Full image&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;tottenham-hotspur-aka-spurs&#34;&gt;Tottenham Hotspur aka Spurs&lt;/h2&gt;
-&lt;p&gt;Tottenham Hotspur, commonly known as &lt;strong&gt;Spurs&lt;/strong&gt;, is a professional football club based in Tottenham, North London, England. Founded in 1882, the team competes in the Premier League and plays its home matches at the Tottenham Hotspur Stadium, which has a capacity of 62,850.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-      
+      <title>London to Brighton</title>
+      <link>http://localhost:1313/posts/london2brighton/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/london2brighton/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.&lt;/p&gt;
+&lt;p&gt;Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Arsenal</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 26 Aug 2025 08:42:38 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      
-      <description>&lt;p&gt;&lt;img src=&#34;thumb.jpg&#34; alt=&#34;Full image&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;arsenal--aka-the-gunners&#34;&gt;Arsenal  aka The Gunners&lt;/h2&gt;
-&lt;p&gt;Arsenal Football Club &lt;strong&gt;the gunners&lt;/strong&gt; is a professional football team based in Islington, North London, England, founded in 1886. Known as &amp;ldquo;The Gunners,&amp;rdquo; they compete in the Premier League and have won numerous titles, including 13 league championships and a record 14 FA Cups, making them one of the most successful clubs in English football history.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-      
+      <title>London to Brighton - prequel</title>
+      <link>http://localhost:1313/posts/l2b2023/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/l2b2023/</guid>
+      <description>&lt;p&gt;“The Devil whispered in my ear: ‘You’re not strong enough to withstand the storm.’ I whispered back: ‘I am the storm&amp;rsquo;”&lt;/p&gt;
+&lt;p&gt;The picture above is my son Sean Buckle who ran a 100km from London to Brighton this time last year. He never stopped smiling! This year he has convinced me to run it with him. I&amp;rsquo;ve run one Ultra before and if you&amp;rsquo;re not sure what an Ultra is then I asked ChatGPT for you and&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Berlin blow for blow</title>
+      <link>http://localhost:1313/posts/berlin2023/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/berlin2023/</guid>
+      <description>&lt;p&gt;We walked across a former airfield, the wind in our faces, surrounded by cyclists, skateboarders and runners. This was marathon day minus 1, Saturday, registration day. Eventually we found the entrance to the Berlin marathon registration expo, heavily sponsored by, no let’s not mention the sponsors. Without them it wouldn’t happen but they got enough airtime. Colleen and I made our way through the myriad of checks, id and marathon pass shananigans, funnelled through to the registration counter. Berlin is funny, I’m never sure which language I should be using. Everyone starts with English and because I don’t wanna be a tourist, I answer in German, they reply in English and the game continues. Anyway, everything goes smoothly and we get our tracking chips (No salt and Vinegar) and number bibs. Finally we meet up with our support team, Heike and Alicia, we make our way out and home. But not before buying some merch and chatting to the antipodean scientist at the Super Sapiens stand. We discuss the future of sport, nutrition and pretty much everything. He was a pretty switched on bloke and I wish I had gotten his email.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Berlin bound</title>
+      <link>http://localhost:1313/posts/berlin-bound/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/berlin-bound/</guid>
+      <description>&lt;p&gt;The photo is 5 years old! In 2017 a very good friend and myself ventured to Berlin in order to run the Marathon.
+5 years later I am back again but this time with &lt;a href=&#34;href=https://colleenanderhub.co.uk&#34;&gt;Colleen&lt;/a&gt; my daughter.
+She is attempting her first marathon and together we are going to blast through the Brandenburg gate in around 4 hours.
+Berlin is one of my favourites, as is Köln (more about that to come). T
+here is very definitely an international vibe along with tte fact that you&amp;rsquo;re running on the same tarmac that &lt;a href=&#34;href=https://en.wikipedia.org/wiki/Eliud_Kipchoge&#34;&gt;Eliud Kipchoge&lt;/a&gt; is running on, the current world record holder.
+That&amp;rsquo;s a bit special! We have 5 weeks and 5 days left to go and Colleen is beginning to realise that those 42km are getting closer.
+She&amp;rsquo;s prepared pretty well with some great runs around Berlin, she&amp;rsquo;s already pretty fit and she&amp;rsquo;s definitely streamlined.
+The crowds will pull us through! The event will summon up the adrenaline, the dopamine, the endorphins and the mind and body will slide along through the streets of Berlin.
+The wall, the runners wall will not be a factor because just like the Berlin wall we will pull it down! For me it&amp;rsquo;s another marathon in another great city somewhere.
+I am not stopping yet. Now I am going to write about those 10 plus Köln marathons I have done. Until then &amp;hellip; keep on running!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Running past the Katzensteine</title>
+      <link>http://localhost:1313/posts/running-past-the-katzensteine/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/running-past-the-katzensteine/</guid>
+      <description>&lt;h2 id=&#34;running-past-the-katzensteine&#34;&gt;Running past the Katzensteine&lt;/h2&gt;
+&lt;p&gt;This was a great find, the sandstone rocks! The forest and the fact that  it is less than 3km away from where we live. I have looked up the rocks  on  &lt;a href=&#34;href=https://de.wikipedia.org/wiki/Katzensteine&#34;&gt;Wikipedia&lt;/a&gt;, they&amp;rsquo;re old, very old. I have no idea what the area is specifically called, it&amp;rsquo;s definitely on the edge of the &lt;a href=&#34;href=https://de.wikipedia.org/wiki/Nationalpark_Eifel&#34;&gt;Eifel National Park&lt;/a&gt;.
+I am slowly starting to discover how great this place is to run around.
+You can see my route (one of many) on &lt;a href=&#34;href=https://www.komoot.com/tour/1070513190&#34;&gt;Komoot&lt;/a&gt;.
+I&amp;rsquo;m going to share a bit of info here on my running experience around  this part of Mechernich.
+I am equipped with a healthy appreciation of the beauty of the natural  surroundings, this tends to already lift my mood somewhat.
+Then there  are the endorphins, they appear a few kilometers into the run.
+I always  try to do at least 16km and sometimes 21km, if I am feeling extra buoyant then I will do 30km.
+In addition to the endorphins and the forest I have a 21st century invention, Podcasts.
+For the Katzensteine  and forest runs such as this one I have -  The  &lt;a href=&#34;href=https://play.acast.com/s/blindboy&#34;&gt;Blind Boy podcast&lt;/a&gt;
+It&amp;rsquo;s a classic!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
