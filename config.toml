@@ -3,6 +3,9 @@ languageCode = "en-gb"
 title = "garybuckle"
 theme = "PaperMod"
 cover = "thumb.jpg"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 [params]
   customCSS = ["css/custom.css"]
   DateFormat = "02.01.2006"
