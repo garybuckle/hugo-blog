@@ -11,13 +11,13 @@ relative = true
 +++
 
 
-“Once you descend into that dark place out on the trail, where everything is crashing down around you, you need to find something real to keep you moving. It could be love or pain, but it has to be real. It certainly won’t be Facebook likes.” 
+> Once you descend into that dark place out on the trail, where everything is crashing down around you, you need to find something real to keep you moving. It could be love or pain, but it has to be real. It certainly won’t be Facebook likes.” 
 
 We travelled over by train on Friday evening, meeting up with Sean at St Pancras at around 7:30. He was a bit knackered, we were a bit knackered so we opted out of meeting up and eating together. Heike and I were in Richmond town centre so we found an Italian restaurant and took our seats outside. To our left, 2 blokes kitted out for what seemed like a long run and to our left and elderly woman who we had previously passed limping along the street. The fit blokes were obviously doing the L2B and I eavesdropped a bit. Not their first ultra but definitely their first 100km. They discussed future events pending their success on Saturday. I demolished spinach ravioli, two bottles of sparkling water and an espresso affogato. The lady on our right finished at approximately the same time as us and as she rose I couldn't help but notice a t-shirt adorned with the Jurassic coast 100km ultra logo. Aha! She was also doing the L2B. As she passed I wished her good luck. She thanked me and asked me if I too was running, I told her it was my first time and that I was running with my son who'd run it last year. She wished me luck and told me that she'd run the Jurassic coast 100km a week earlier. I was genuinely speechless and told her so. "Oh it's nothing at all, I do them all the time. I'm not fast but I just keep going"
 
 I still couldn't see how this woman who was clearly struggling to be mobile could do 200km in the space of 8 days. That sounded like a good mantra and one my mom would have approved of so just keep going it was.
 
-I woke the next dayat 5:30 and made my way to meet Sean at the station in Richmond.
+I woke the next day at 5:30 and made my way to meet Sean at the station in Richmond.
 
 10 minutes later we were there at the start, drinking coffee and eating oat bars. As with most sporting events, the atmosphere is incredible! We checked our gear and lined up at the start, both of us trying hard to conceal our excitement.
 
