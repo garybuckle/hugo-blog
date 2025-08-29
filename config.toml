@@ -1,0 +1,34 @@
+#baseURL = "https://garybuckle.github.io/hugo-blog/"
+baseURL = "http://localhost:1313/hugo-blog"
+canonifyURLs = true
+languageCode = "en-gb"
+title = "garybuckle"
+theme = "PaperMod"
+cover = "thumb.jpg"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+[params]
+  customCSS = ["css/custom.css"]
+  DateFormat = "02.01.2006"
+  ShowPostCover = true
+  ShowCoverInList = true
+  ShowCoverInSingle = true
+[params.list]
+  sortByDate = "desc"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "about"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts"
+    weight = 2

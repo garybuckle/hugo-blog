@@ -1,0 +1,94 @@
+{{- define "main" }}
+
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">{{ .Description }}</div>
+    {{- end }}
+</header>
+
+{{- if .Content }}
+<div class="post-content">{{ .Content }}</div>
+{{- end }}
+
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+
+{{- if .Site.Params.ShowAllPagesInArchive }}
+{{- $pages = site.RegularPages }}
+{{- end }}
+
+{{- range $pages.GroupByPublishDate "2006" }}
+{{- if ne .Key "0001" }}
+<div class="archive-year">
+    <h2 class="archive-year-header">
+        {{- .Key }}
+    </h2>
+    <div class="posts-grid">
+        {{- range .Pages }}
+        <article class="post-card">
+            <a href="{{ .Permalink }}" class="post-card-link">
+                {{- $image := "" }}
+                {{- $alt := "" }}
+                {{- $relative := false }}
+
+                {{- with .Params.params.cover }}
+                {{- $image = .image }}
+                {{- $alt = .alt }}
+                {{- $relative = .relative }}
+                {{- else }}
+                {{- with .Params.cover }}
+                {{- $image = .image }}
+                {{- $alt = .alt }}
+                {{- $relative = .relative }}
+                {{- end }}
+                {{- end }}
+
+                {{- if $image }}
+                <div class="post-card-image">
+                    {{- if $relative }}
+                    {{- $imageResource := .Page.Resources.GetMatch $image }}
+                    {{- if $imageResource }}
+                    <img loading="lazy" src="{{ $imageResource.RelPermalink }}" alt="{{ $alt | default .Title }}">
+                    {{- else }}
+                    <img loading="lazy" src="{{ .RelPermalink }}{{ $image }}" alt="{{ $alt | default .Title }}">
+                    {{- end }}
+                    {{- else }}
+                    <img loading="lazy" src="{{ $image }}" alt="{{ $alt | default .Title }}">
+                    {{- end }}
+                </div>
+                {{- end }}
+
+                <div class="post-card-content">
+                    <h3 class="post-card-title">{{ .Title }}</h3>
+
+                    <div class="post-card-meta">
+                        <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                        {{- .Date.Format "Jan 2, 2006" }}
+                        </time>
+                        {{- if .Params.author }}
+                        <span class="post-card-author">by {{ .Params.author }}</span>
+                        {{- end }}
+                    </div>
+
+                    {{- if .Params.tags }}
+                    <div class="post-card-tags">
+                        {{- range .Params.tags }}
+                        <a href="{{ "/tags/" | relURL }}{{ . | urlize }}" class="post-card-tag">#{{ . }}</a>
+            {{- end }}
+    </div>
+    {{- end }}
+
+    {{- if .Params.excerpt }}
+    <p class="post-card-summary">{{ .Params.excerpt }}</p>
+    {{- else if .Summary }}
+    <p class="post-card-summary">{{ .Summary }}</p>
+    {{- end }}
+    </a>
+    </article>
+    {{- end }}
+</div>
+</div>
+{{- end }}
+{{- end }}
+
+{{- end }}
