@@ -1,4 +1,5 @@
-baseURL = "https://garybuckle.github.io/hugo-blog/"
+#baseURL = "https://garybuckle.github.io/hugo-blog/"
+baseURL = "http://localhost:1313/hugo-blog"
 canonifyURLs = true
 languageCode = "en-gb"
 title = "garybuckle"
